@@ -1,4 +1,4 @@
-This Numerical Methods :-
+#This Numerical Methods :-
 
 1.Bisection
 2.Secant
