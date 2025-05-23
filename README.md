@@ -11,6 +11,6 @@
 * Composite Integration
 
 # Required Libs
-* Tabulate - for Tables
+* Tabulate - for Tables `pip install tabulate`
 
-## if you want to make GUI, You can use TKinter
+### if you want to make GUI, You can use TKinter
