@@ -9,3 +9,8 @@
 * Linear Regression
 * Numerical Integration
 * Composite Integration
+
+# Required Libs
+* Tabulate - for Tables
+
+## if you want to make GUI, You can use TKinter
