@@ -5,7 +5,7 @@ class bcolor:
     FAIL = '\033[91m'
     ENDC = '\033[0m'
 
-print("Numerical Method 12th Project | v1.0\n")
+print("Numerical Method Project | v1.0\n")
 print("By Yusuf Sameh\n")
 print("* Notes *")
 print("- sqrt(x) ---> Square Roots")
